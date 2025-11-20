@@ -2,7 +2,7 @@
 
 Este projeto é uma prova de conceito (PoC) de uma arquitetura de microsserviços integrando **Node.js/TypeScript** (Gateway) e **Python** (Worker de IA).
 
-O sistema recebe uma frase via API, processa-a utilizando a biblioteca *TextBlob* e retorna se o sentimento é Positivo, Negativo ou Neutro.
+O sistema recebe uma frase via API, processa-a utilizando a biblioteca *TextBlob* e retorna se o sentimento é Positivo, Negativo
 
 ##  Tecnologias Utilizadas
 
